@@ -3,6 +3,7 @@
   raycasting game in Haskell
   
   Miloslav Číž, 2017
+  JeffRockatansky, 2022
   
 ----------------------------------------}
 
@@ -122,7 +123,7 @@ animatedSpriteIds = [1,3,8,10,12]     -- list of sprite IDs that are animated
 spriteList =
   [
     [ -- 0
-      "XXXXXXXXXXXXXXX",
+      "XXXXX██████████",
       "XXXX/'''''\\XXXX",
       "XX/'       ''\\X",
       "X|   O        |",
